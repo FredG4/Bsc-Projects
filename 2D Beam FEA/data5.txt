@@ -1,0 +1,20 @@
+material
+aluminum
+
+coordenadas
+1.1, 0; 1.1, 1.4; 0, 0; 0, 1.4; 0.55, 2.1; 1.1, 2.8
+
+conectividades
+0,1; 1,2; 0,3; 2,3; 3,1; 1,4; 4,3; 1,5; 4,5
+
+condicoes fronteira
+0,0; 1,1; 0,0; 1,1; 1,1; 1,1
+
+forcas existentes
+0,0; 2000,180; 0,0; 3000,-90; 3000,-90; 3605.55,-123.69 
+
+modulo de young (pa)
+70e9
+
+area cross section (m^2)
+750e-6

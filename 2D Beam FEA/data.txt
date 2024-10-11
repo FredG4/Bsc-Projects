@@ -1,0 +1,20 @@
+material
+steel
+
+coordenadas
+0, 0; 0, 1.4; 0.55, 1.4; 1.1, 1.4; 1.1, 0; 0.55, 0.7;
+
+conectividades
+0,1; 1,2; 2,3; 3,4; 4,5; 5,0; 1,5; 2,5; 3,5
+
+condicoes fronteira
+0,0; 1,1; 1,1; 1,1; 0,0; 1,1
+
+forcas existentes
+0,0; 3000,-90; 0,0; 3000,-150; 0,0; 3000,180 
+
+modulo de young (pa)
+200e9
+
+area cross section (m^2)
+320e-6
